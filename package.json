@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Vitalik2234/web2025-4/issues"
   },
-  "homepage": "https://github.com/Vitalik2234/web2025-4#readme"
+  "homepage": "https://github.com/Vitalik2234/web2025-4#readme",
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
 }
